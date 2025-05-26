@@ -1,0 +1,7 @@
+Clone rep https://github.com/binance/binance-public-data
+
+In ./binance-public-data/python/, pip install -r requirements.txt
+
+python download-kline.py -s BTCUSDT -startDate 2010-01-01 -endDate 2021-08-31 -folder 'SOME_PATH' -i 1m
+
+The data from this example is 100 Mo in size.

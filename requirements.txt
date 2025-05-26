@@ -1,0 +1,4 @@
+MetaTrader5==5.0.35
+numpy==1.21.2
+keras==2.6.0
+matplotlib==3.3.3
